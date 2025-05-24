@@ -1,2 +1,3 @@
-# avl-tree
-AVL tree
+# AVL tree
+
+https://en.wikipedia.org/wiki/AVL_tree
